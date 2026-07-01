@@ -94,4 +94,4 @@ Applied AI is positioned here as a practical layer for analysis, synthesis, prod
 ## Contact
 
 - **GitHub:** [github.com/arthurhenrisilveira](https://github.com/arthurhenrisilveira)
-- **LinkedIn:** [LinkedIn profile URL placeholder](https://www.linkedin.com/in/your-linkedin-profile/)
+- **LinkedIn:** [linkedin.com/in/arthur-silveira-santos-78587883/](https://www.linkedin.com/in/arthur-silveira-santos-78587883/)
